@@ -1,2 +1,1 @@
-# PZA
-pizza project
+# pizza
